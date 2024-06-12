@@ -9,7 +9,7 @@
 <br><br>
 - :school: I am a `Frontend Dev` and `Civil Engineer` at [Faculty of Engineering](https://www.ing.ucv.ve/) at [Central University of Venezuela](http://www.ucv.ve/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `React Native` and `Backend development`.
+- :student: I’m currently learning `React`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://social-links-profile-cems.netlify.app/).
 - :boom: You can visit MY WEBSITE.
