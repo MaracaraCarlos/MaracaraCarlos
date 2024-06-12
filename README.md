@@ -44,7 +44,7 @@
    </a>
   &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=plastic&logo">
+     <img alt="JavaScript" src="https://img.shields.io/badge/Typescript-blue?style=flat&logo=typescript&logoColor=%23fff&logoSize=auto">
    </a>
 </p>
 <!--
