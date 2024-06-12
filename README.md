@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Carlos Maracara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Frontend+Developer)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
