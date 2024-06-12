@@ -13,6 +13,8 @@
 - :boom: You can visit MY WEBSITE.
 <br>
 
+## 🛠️ My Skills
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 <!--
 **MaracaraCarlos/MaracaraCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
