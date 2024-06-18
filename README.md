@@ -11,8 +11,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `React`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://social-links-profile-cems.netlify.app/).
-- :boom: You can visit MY WEBSITE.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/183J0wEc4bcQh8aku9zTmE1CB-t4kckPW/view).
+- :boom: You can visit [MY WEBSITE](https://link-profile-maracara.netlify.app/).
 <br>
 
 ## 🛠️ My Skills
